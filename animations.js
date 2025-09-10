@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
       typedEl.insertAdjacentElement('afterend', cursorEl);
     }
   
-    const words = ["a Web Designer", "a Developer", "a Creator"];
+    const words = ["a Student", "Trying to be a Developer", "a Sheesh"];
     let wordIndex = 0;
     let charIndex = 0;
     const typingDelay = 90;
